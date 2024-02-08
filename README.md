@@ -1,5 +1,4 @@
 # Selection/İnsertion Sort
-Selection Sort Projesi
     [22,27,16,2,18,6] -> Insertion Sort aşamalarını yazınız.
     2'li elemanlar arası kıyaslama yapılmaktadır. Kıyaslama doğru oldukça sağa doğru ilerlenir. Doğru olmadığı zaman yer değişikliği yapılır. Yapılan yer değişikliği sonucunda önceden sağa doğru ilerlenen kısım kontrol edilmediği için sola doğru tekrar kıyas yapılır. Bu       noktada da kıyaslama hayır olana kadar devam edilir ve kıyaslama birince sağa doğru ilerlenen en son noktaya geri dönülür ve döngü bu şekilde devam eder. Aşağıda da bu konu ile ilgili bir örnek bulunmaktadır.
     
